@@ -10,4 +10,6 @@ class GameAssets {
   static const ninjaFrogRun = 'Main Characters/Ninja Frog/Run (32x32).png';
   static const ninjaFrogWallJump =
       'Main Characters/Ninja Frog/Wall Jump (32x32).png';
+  static const knob = 'HUD/Knob.png';
+  static const joystickBackground = 'HUD/Joystick.png';
 }
